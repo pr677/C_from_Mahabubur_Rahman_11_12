@@ -1,6 +1,6 @@
 /*
 Determining whether a number is divided by 3 or not 
-find_even_odd.c
+find_multiple_by_3.c
 practice11.c
 */
 #include <stdio.h>
